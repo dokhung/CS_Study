@@ -1,0 +1,6 @@
+C:\NCS_CS\NCS_Start_202310\Mission12\bin\Debug\Mission12.exe
+C:\NCS_CS\NCS_Start_202310\Mission12\bin\Debug\Mission12.pdb
+C:\NCS_CS\NCS_Start_202310\Mission12\obj\Debug\Mission12.csproj.AssemblyReference.cache
+C:\NCS_CS\NCS_Start_202310\Mission12\obj\Debug\Mission12.csproj.CoreCompileInputs.cache
+C:\NCS_CS\NCS_Start_202310\Mission12\obj\Debug\Mission12.exe
+C:\NCS_CS\NCS_Start_202310\Mission12\obj\Debug\Mission12.pdb

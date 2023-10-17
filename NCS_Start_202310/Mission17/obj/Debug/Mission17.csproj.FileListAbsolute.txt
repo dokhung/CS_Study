@@ -1,0 +1,12 @@
+C:/NCS_CS/NCS_Start_202310/Mission17/bin/Debug/Mission17.exe
+C:/NCS_CS/NCS_Start_202310/Mission17/bin/Debug/Mission17.pdb
+C:/NCS_CS/NCS_Start_202310/Mission17/obj/Debug/Mission17.csproj.AssemblyReference.cache
+C:/NCS_CS/NCS_Start_202310/Mission17/obj/Debug/Mission17.csproj.CoreCompileInputs.cache
+C:/NCS_CS/NCS_Start_202310/Mission17/obj/Debug/Mission17.exe
+C:/NCS_CS/NCS_Start_202310/Mission17/obj/Debug/Mission17.pdb
+/Users/kuredogyon/Documents/NCS_CS/NCS_Start_202310/Mission17/bin/Debug/Mission17.exe
+/Users/kuredogyon/Documents/NCS_CS/NCS_Start_202310/Mission17/bin/Debug/Mission17.pdb
+/Users/kuredogyon/Documents/NCS_CS/NCS_Start_202310/Mission17/obj/Debug/Mission17.csproj.AssemblyReference.cache
+/Users/kuredogyon/Documents/NCS_CS/NCS_Start_202310/Mission17/obj/Debug/Mission17.csproj.CoreCompileInputs.cache
+/Users/kuredogyon/Documents/NCS_CS/NCS_Start_202310/Mission17/obj/Debug/Mission17.exe
+/Users/kuredogyon/Documents/NCS_CS/NCS_Start_202310/Mission17/obj/Debug/Mission17.pdb

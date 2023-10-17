@@ -1,0 +1,6 @@
+C:\NCS_CS\NCS_Start_202310\Mission9\bin\Debug\Mission9.exe
+C:\NCS_CS\NCS_Start_202310\Mission9\bin\Debug\Mission9.pdb
+C:\NCS_CS\NCS_Start_202310\Mission9\obj\Debug\Mission9.csproj.AssemblyReference.cache
+C:\NCS_CS\NCS_Start_202310\Mission9\obj\Debug\Mission9.csproj.CoreCompileInputs.cache
+C:\NCS_CS\NCS_Start_202310\Mission9\obj\Debug\Mission9.exe
+C:\NCS_CS\NCS_Start_202310\Mission9\obj\Debug\Mission9.pdb
