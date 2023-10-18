@@ -46,7 +46,7 @@ namespace _20231018_3
             point.x = point.y;
             point.y = temp;
 
-            Console.Write("AA 클래스 안에서의 Swap 실행한 point = ");
+            Console.Write("그냥 Swap함수 안에서의, 구조체를 매개변수로 받은 point = ");
             point.PrintValue();
         }
 

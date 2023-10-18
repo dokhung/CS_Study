@@ -56,6 +56,11 @@ namespace _20231018_5
             int result = 0;
             Compare(a, b, out result);
             Console.WriteLine($"매개변수1의 값 : {a}, 매개변수2의 값 : {b} 을 넣어서 " + $"결과값 = {result}를 획득 하였습니다.");
+            a = 15;
+            b = 10;
+            Compare(a, b, out result);
+            Console.WriteLine($"매개변수1의 값 : {a}, 매개변수2의 값 : {b} 을 넣어서" +
+                        $" 결과값 = {result}를 획득하였습니다");
         }
 
         

@@ -67,18 +67,29 @@ namespace _20231018_4
         {
             int x = 1;
             int y = 2;
-            // Swap(x, y);
-            // Console.WriteLine($"x = {x}, y = {y}"); 
-            //
-            // x = 1;
-            // y = 2;
-            // SwapRef(ref x, y);
-            // Console.WriteLine($"x = {x}, y = {y}"); 
-            //
-            // x = 1;
-            // y = 2;
-            // SwapRef(ref x, ref y);
-            // Console.WriteLine($"x = {x}, y = {y}"); 
+            Swap(x, y);
+            Console.WriteLine($"x = {x}, y = {y}"); 
+            
+            
+            x = 1;
+            y = 2;
+            SwapRef(ref x, y);
+            Console.WriteLine($"x = {x}, y = {y}"); 
+            
+            
+            x = 1;
+            y = 2;
+            SwapRef(ref x, ref y);
+            Console.WriteLine($"x = {x}, y = {y}");
+            structA aa = new structA(11, 22);
+            
+            Console.WriteLine("생성된 구조체 aa = "  + aa.x + "," + aa.y);
+            
+            Swap(aa);
+            Swap(aa.x, aa.y);
+            
+            Console.WriteLine("그냥 스왑 후의 구조체 aa = " + aa.x + "," + aa.y);
+            
             structA structA = new structA();
             structA.x = 1;
             structA.y = 2;

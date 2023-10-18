@@ -1,4 +1,6 @@
-﻿namespace _20231018_8
+﻿using System;
+
+namespace _20231018_8
 {
     internal class Program
     {
@@ -58,7 +60,19 @@
         
         public static void Main(string[] args)
         {
-            
+            Console.WriteLine("한 점과, 가로, 세로 길이로 사각형의 모든 꼭짓점을 출력하겠습니다.");
+            Console.WriteLine("한 점의 좌표값을 입력해주세요");
+            Console.Write("x = ");
+            // Console.ReadLine(); //숫자로 바꾸기
+            Console.Write("y = ");
+            // Console.ReadLine(); //숫자로 바꾸기
+           
+            //=> 이렇게 받은 x,y 값을 구조체 안에 넣기..
+
+            Console.WriteLine("가로값을 입력해주세요");
+            // Console.ReadLine(); //숫자로 바꾸기
+            Console.WriteLine("세로값을 입력해주세요");
+            // Console.ReadLine(); //숫자로 바꾸기 
         }
     }
 }

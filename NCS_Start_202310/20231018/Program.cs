@@ -17,12 +17,16 @@ namespace _20231018
             // 각 클래스 생성해서 불러서 확인 해보면 좋음
             B bstruct = new B();
             bstruct.aa = 10;
-            B bstruct2 = new B();
+            B bstruct2 = new B(10);
 
             Point point;
             point.x = 5f;
             point.y = 1.05f;
             Console.WriteLine("좌표 출력 : ["+point.x +","+ point.y + "]");
+
+            A a = new A();
+            a.AAA(new PersonInfo(), new PersonInfo());
+
 
         }
     }
@@ -30,12 +34,16 @@ namespace _20231018
     class A
     {
         // public void AAA(string name, string address, int age, bool sex, string[] family) // 매개변수 등등
+
+        private int aaaaaa = 0;
+
         public void AAA(PersonInfo _info, PersonInfo _info2) // 매개변수 // 매개체로 넘겨줌
         {
             _info.name = "";
             string newname = _info.name;
         }
-        // public A()
+    }
+    // public A()
         // {
         //     
         // }
@@ -44,9 +52,7 @@ namespace _20231018
         struct PersonInfo
         {
             public string name;
-
             public string address;
-
             public int age;
             /*
              * 사람이름
@@ -82,4 +88,3 @@ namespace _20231018
             aa = bbb;
         }
     }
-}

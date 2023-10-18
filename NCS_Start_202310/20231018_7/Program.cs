@@ -14,11 +14,12 @@ namespace _20231018_7
         }
         static void Divide1(int a, int b, ref int result)
         {
-            
+            int c = a / b;
         }
         static void Divide2(int a, int b, out int result)
         {
-            
+            int c = a / b;
+            result = c;
         }
         public static void Main(string[] args)
         {
