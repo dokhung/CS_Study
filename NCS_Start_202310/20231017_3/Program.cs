@@ -37,10 +37,10 @@ namespace _20231017_3
             Console.WriteLine("동물클래스_밥먹는다.");
         }
 
-        protected abstract void Move()
-        {
-            Console.WriteLine("동물클래스 _ 움직인다.");
-        }
+        protected abstract void Move();
+        // {
+        //     Console.WriteLine("동물클래스 _ 움직인다.");
+        // }
 
         public virtual void Speak() // virtual == 밑에 자식클래스들이 재정의 가능하도록 허락해줌
         {
@@ -67,10 +67,10 @@ namespace _20231017_3
 
         protected override void Move()
         {
-            
+            Console.WriteLine("날짐승클래스 _ 움직인다");
         }
         
-        public override void Fly()
+        public void Fly()
         {
             Console.WriteLine("날짐승 친구들 _ 난다."); 
         }
@@ -90,12 +90,13 @@ namespace _20231017_3
 
         public virtual void Roar() // 상속의 허락
         {
-            
+            Console.WriteLine("GroundAnimal의  Roar~~~~");
         }
 
         public override void Speak()
         {
-            Console.WriteLine("GroundAnumal의 울음");
+            base.Speak();
+            Console.WriteLine("울음");
         }
     }
 
@@ -108,8 +109,12 @@ namespace _20231017_3
 
         public void Fly()
         {
-            
+            Console.WriteLine("날았다");
         }
+        public override void Roar() //상속이 허락되었기때문에 재정의 가능.
+            {
+               Console.WriteLine("Tiger의 Roar~~~~");
+           }
         
     }
     public class Fox : GroundAnimal
