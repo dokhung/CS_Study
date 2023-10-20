@@ -50,6 +50,7 @@ namespace _20231020_Mission4
         public void PrintIos()
         {
             Console.WriteLine("**********************************");
+            Console.WriteLine("**********************************");
         }
     }
     
