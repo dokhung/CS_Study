@@ -1,0 +1,6 @@
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/20231020_Mission4/bin/Debug/_20231020_Mission4.exe
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/20231020_Mission4/bin/Debug/_20231020_Mission4.pdb
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/20231020_Mission4/obj/Debug/20231020_Mission4.csproj.AssemblyReference.cache
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/20231020_Mission4/obj/Debug/20231020_Mission4.csproj.CoreCompileInputs.cache
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/20231020_Mission4/obj/Debug/_20231020_Mission4.exe
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/20231020_Mission4/obj/Debug/_20231020_Mission4.pdb

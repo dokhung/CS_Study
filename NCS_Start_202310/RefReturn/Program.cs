@@ -15,13 +15,14 @@ namespace RefReturn
         {
             Console.WriteLine($"Price:{price}");
         }
-        
+
     }
 
     class MainApp
     {
         public static void Main(string[] args)
         {
-            
+            Console.WriteLine("");
         }
     }
+}

@@ -7,7 +7,7 @@ using System.Text;
         Sword,
         Armor,
         Potion,
-
+        
         End
     }
 
