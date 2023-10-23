@@ -241,6 +241,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20231023_Mission5", "202310
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20231023_7", "20231023_7\20231023_7.csproj", "{1B736F79-117D-43AA-B095-6E7EAABA5240}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextRPGProject", "TextRPGProject\TextRPGProject.csproj", "{07762D3E-2C2A-4679-A4AD-E3B19172E719}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -723,6 +725,10 @@ Global
 		{1B736F79-117D-43AA-B095-6E7EAABA5240}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B736F79-117D-43AA-B095-6E7EAABA5240}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B736F79-117D-43AA-B095-6E7EAABA5240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07762D3E-2C2A-4679-A4AD-E3B19172E719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07762D3E-2C2A-4679-A4AD-E3B19172E719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07762D3E-2C2A-4679-A4AD-E3B19172E719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07762D3E-2C2A-4679-A4AD-E3B19172E719}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
