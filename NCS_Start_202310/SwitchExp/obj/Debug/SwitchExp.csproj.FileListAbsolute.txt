@@ -1,0 +1,6 @@
+C:\CS_Study\NCS_Start_202310\SwitchExp\bin\Debug\SwitchExp.exe
+C:\CS_Study\NCS_Start_202310\SwitchExp\bin\Debug\SwitchExp.pdb
+C:\CS_Study\NCS_Start_202310\SwitchExp\obj\Debug\SwitchExp.csproj.AssemblyReference.cache
+C:\CS_Study\NCS_Start_202310\SwitchExp\obj\Debug\SwitchExp.csproj.CoreCompileInputs.cache
+C:\CS_Study\NCS_Start_202310\SwitchExp\obj\Debug\SwitchExp.exe
+C:\CS_Study\NCS_Start_202310\SwitchExp\obj\Debug\SwitchExp.pdb

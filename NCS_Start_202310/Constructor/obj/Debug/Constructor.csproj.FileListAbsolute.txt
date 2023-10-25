@@ -1,0 +1,6 @@
+C:\CS_Study\NCS_Start_202310\Constructor\bin\Debug\Constructor.exe
+C:\CS_Study\NCS_Start_202310\Constructor\bin\Debug\Constructor.pdb
+C:\CS_Study\NCS_Start_202310\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+C:\CS_Study\NCS_Start_202310\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\CS_Study\NCS_Start_202310\Constructor\obj\Debug\Constructor.exe
+C:\CS_Study\NCS_Start_202310\Constructor\obj\Debug\Constructor.pdb

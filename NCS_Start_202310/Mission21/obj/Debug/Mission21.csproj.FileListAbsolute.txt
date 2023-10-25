@@ -1,0 +1,6 @@
+C:\CS_Study\NCS_Start_202310\Mission21\bin\Debug\Mission21.exe
+C:\CS_Study\NCS_Start_202310\Mission21\bin\Debug\Mission21.pdb
+C:\CS_Study\NCS_Start_202310\Mission21\obj\Debug\Mission21.csproj.AssemblyReference.cache
+C:\CS_Study\NCS_Start_202310\Mission21\obj\Debug\Mission21.csproj.CoreCompileInputs.cache
+C:\CS_Study\NCS_Start_202310\Mission21\obj\Debug\Mission21.exe
+C:\CS_Study\NCS_Start_202310\Mission21\obj\Debug\Mission21.pdb

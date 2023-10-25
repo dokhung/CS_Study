@@ -1,0 +1,6 @@
+C:\CS_Study\NCS_Start_202310\UsingParmas\bin\Debug\UsingParmas.exe
+C:\CS_Study\NCS_Start_202310\UsingParmas\bin\Debug\UsingParmas.pdb
+C:\CS_Study\NCS_Start_202310\UsingParmas\obj\Debug\UsingParmas.csproj.AssemblyReference.cache
+C:\CS_Study\NCS_Start_202310\UsingParmas\obj\Debug\UsingParmas.csproj.CoreCompileInputs.cache
+C:\CS_Study\NCS_Start_202310\UsingParmas\obj\Debug\UsingParmas.exe
+C:\CS_Study\NCS_Start_202310\UsingParmas\obj\Debug\UsingParmas.pdb

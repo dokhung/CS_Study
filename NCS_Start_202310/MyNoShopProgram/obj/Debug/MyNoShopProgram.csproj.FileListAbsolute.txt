@@ -1,0 +1,6 @@
+C:\CS_Study\NCS_Start_202310\MyNoShopProgram\bin\Debug\MyNoShopProgram.exe
+C:\CS_Study\NCS_Start_202310\MyNoShopProgram\bin\Debug\MyNoShopProgram.pdb
+C:\CS_Study\NCS_Start_202310\MyNoShopProgram\obj\Debug\MyNoShopProgram.csproj.AssemblyReference.cache
+C:\CS_Study\NCS_Start_202310\MyNoShopProgram\obj\Debug\MyNoShopProgram.csproj.CoreCompileInputs.cache
+C:\CS_Study\NCS_Start_202310\MyNoShopProgram\obj\Debug\MyNoShopProgram.exe
+C:\CS_Study\NCS_Start_202310\MyNoShopProgram\obj\Debug\MyNoShopProgram.pdb

@@ -1,0 +1,6 @@
+C:\CS_Study\NCS_Start_202310\Dowhile_01\bin\Debug\Dowhile_01.exe
+C:\CS_Study\NCS_Start_202310\Dowhile_01\bin\Debug\Dowhile_01.pdb
+C:\CS_Study\NCS_Start_202310\Dowhile_01\obj\Debug\Dowhile_01.csproj.AssemblyReference.cache
+C:\CS_Study\NCS_Start_202310\Dowhile_01\obj\Debug\Dowhile_01.csproj.CoreCompileInputs.cache
+C:\CS_Study\NCS_Start_202310\Dowhile_01\obj\Debug\Dowhile_01.exe
+C:\CS_Study\NCS_Start_202310\Dowhile_01\obj\Debug\Dowhile_01.pdb

@@ -4,3 +4,9 @@ C:\NCS_CS\NCS_Start_202310\Mission4\obj\Debug\Mission4.csproj.AssemblyReference.
 C:\NCS_CS\NCS_Start_202310\Mission4\obj\Debug\Mission4.csproj.CoreCompileInputs.cache
 C:\NCS_CS\NCS_Start_202310\Mission4\obj\Debug\Mission4.exe
 C:\NCS_CS\NCS_Start_202310\Mission4\obj\Debug\Mission4.pdb
+C:\CS_Study\NCS_Start_202310\Mission4\bin\Debug\Mission4.exe
+C:\CS_Study\NCS_Start_202310\Mission4\bin\Debug\Mission4.pdb
+C:\CS_Study\NCS_Start_202310\Mission4\obj\Debug\Mission4.csproj.AssemblyReference.cache
+C:\CS_Study\NCS_Start_202310\Mission4\obj\Debug\Mission4.csproj.CoreCompileInputs.cache
+C:\CS_Study\NCS_Start_202310\Mission4\obj\Debug\Mission4.exe
+C:\CS_Study\NCS_Start_202310\Mission4\obj\Debug\Mission4.pdb

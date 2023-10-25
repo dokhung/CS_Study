@@ -1,0 +1,6 @@
+C:\CS_Study\NCS_Start_202310\DeepCopy\bin\Debug\DeepCopy.exe
+C:\CS_Study\NCS_Start_202310\DeepCopy\bin\Debug\DeepCopy.pdb
+C:\CS_Study\NCS_Start_202310\DeepCopy\obj\Debug\DeepCopy.csproj.AssemblyReference.cache
+C:\CS_Study\NCS_Start_202310\DeepCopy\obj\Debug\DeepCopy.csproj.CoreCompileInputs.cache
+C:\CS_Study\NCS_Start_202310\DeepCopy\obj\Debug\DeepCopy.exe
+C:\CS_Study\NCS_Start_202310\DeepCopy\obj\Debug\DeepCopy.pdb

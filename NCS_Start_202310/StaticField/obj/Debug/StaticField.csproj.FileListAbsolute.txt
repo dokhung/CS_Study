@@ -1,0 +1,6 @@
+C:\CS_Study\NCS_Start_202310\StaticField\bin\Debug\StaticField.exe
+C:\CS_Study\NCS_Start_202310\StaticField\bin\Debug\StaticField.pdb
+C:\CS_Study\NCS_Start_202310\StaticField\obj\Debug\StaticField.csproj.AssemblyReference.cache
+C:\CS_Study\NCS_Start_202310\StaticField\obj\Debug\StaticField.csproj.CoreCompileInputs.cache
+C:\CS_Study\NCS_Start_202310\StaticField\obj\Debug\StaticField.exe
+C:\CS_Study\NCS_Start_202310\StaticField\obj\Debug\StaticField.pdb

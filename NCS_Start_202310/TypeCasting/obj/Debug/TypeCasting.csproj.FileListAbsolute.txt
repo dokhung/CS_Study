@@ -1,0 +1,6 @@
+C:\CS_Study\NCS_Start_202310\TypeCasting\bin\Debug\TypeCasting.exe
+C:\CS_Study\NCS_Start_202310\TypeCasting\bin\Debug\TypeCasting.pdb
+C:\CS_Study\NCS_Start_202310\TypeCasting\obj\Debug\TypeCasting.csproj.AssemblyReference.cache
+C:\CS_Study\NCS_Start_202310\TypeCasting\obj\Debug\TypeCasting.csproj.CoreCompileInputs.cache
+C:\CS_Study\NCS_Start_202310\TypeCasting\obj\Debug\TypeCasting.exe
+C:\CS_Study\NCS_Start_202310\TypeCasting\obj\Debug\TypeCasting.pdb

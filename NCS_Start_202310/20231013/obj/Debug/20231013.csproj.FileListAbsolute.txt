@@ -4,3 +4,9 @@ C:\NCS_CS\NCS_Start_202310\20231013\obj\Debug\20231013.csproj.AssemblyReference.
 C:\NCS_CS\NCS_Start_202310\20231013\obj\Debug\20231013.csproj.CoreCompileInputs.cache
 C:\NCS_CS\NCS_Start_202310\20231013\obj\Debug\_20231013.exe
 C:\NCS_CS\NCS_Start_202310\20231013\obj\Debug\_20231013.pdb
+C:\CS_Study\NCS_Start_202310\20231013\bin\Debug\_20231013.exe
+C:\CS_Study\NCS_Start_202310\20231013\bin\Debug\_20231013.pdb
+C:\CS_Study\NCS_Start_202310\20231013\obj\Debug\20231013.csproj.AssemblyReference.cache
+C:\CS_Study\NCS_Start_202310\20231013\obj\Debug\20231013.csproj.CoreCompileInputs.cache
+C:\CS_Study\NCS_Start_202310\20231013\obj\Debug\_20231013.exe
+C:\CS_Study\NCS_Start_202310\20231013\obj\Debug\_20231013.pdb

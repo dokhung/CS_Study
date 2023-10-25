@@ -1,0 +1,6 @@
+C:\CS_Study\NCS_Start_202310\MyLotto\bin\Debug\MyLotto.exe
+C:\CS_Study\NCS_Start_202310\MyLotto\bin\Debug\MyLotto.pdb
+C:\CS_Study\NCS_Start_202310\MyLotto\obj\Debug\MyLotto.csproj.AssemblyReference.cache
+C:\CS_Study\NCS_Start_202310\MyLotto\obj\Debug\MyLotto.csproj.CoreCompileInputs.cache
+C:\CS_Study\NCS_Start_202310\MyLotto\obj\Debug\MyLotto.exe
+C:\CS_Study\NCS_Start_202310\MyLotto\obj\Debug\MyLotto.pdb

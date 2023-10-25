@@ -1,0 +1,2 @@
+C:\CS_Study\NCS_Start_202310\MyShopProgram\obj\Debug\MyShopProgram.csproj.AssemblyReference.cache
+C:\CS_Study\NCS_Start_202310\MyShopProgram\obj\Debug\MyShopProgram.csproj.CoreCompileInputs.cache

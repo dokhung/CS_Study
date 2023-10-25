@@ -1,0 +1,6 @@
+C:\CS_Study\NCS_Start_202310\20231016\bin\Debug\_20231016.exe
+C:\CS_Study\NCS_Start_202310\20231016\bin\Debug\_20231016.pdb
+C:\CS_Study\NCS_Start_202310\20231016\obj\Debug\20231016.csproj.AssemblyReference.cache
+C:\CS_Study\NCS_Start_202310\20231016\obj\Debug\20231016.csproj.CoreCompileInputs.cache
+C:\CS_Study\NCS_Start_202310\20231016\obj\Debug\_20231016.exe
+C:\CS_Study\NCS_Start_202310\20231016\obj\Debug\_20231016.pdb

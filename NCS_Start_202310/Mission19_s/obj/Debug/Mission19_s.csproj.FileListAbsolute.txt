@@ -1,0 +1,2 @@
+C:\CS_Study\NCS_Start_202310\Mission19_s\obj\Debug\Mission19_s.csproj.AssemblyReference.cache
+C:\CS_Study\NCS_Start_202310\Mission19_s\obj\Debug\Mission19_s.csproj.CoreCompileInputs.cache

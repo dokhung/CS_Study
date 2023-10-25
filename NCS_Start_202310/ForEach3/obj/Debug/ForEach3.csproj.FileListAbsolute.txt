@@ -1,0 +1,6 @@
+C:\CS_Study\NCS_Start_202310\ForEach3\bin\Debug\ForEach3.exe
+C:\CS_Study\NCS_Start_202310\ForEach3\bin\Debug\ForEach3.pdb
+C:\CS_Study\NCS_Start_202310\ForEach3\obj\Debug\ForEach3.csproj.AssemblyReference.cache
+C:\CS_Study\NCS_Start_202310\ForEach3\obj\Debug\ForEach3.csproj.CoreCompileInputs.cache
+C:\CS_Study\NCS_Start_202310\ForEach3\obj\Debug\ForEach3.exe
+C:\CS_Study\NCS_Start_202310\ForEach3\obj\Debug\ForEach3.pdb

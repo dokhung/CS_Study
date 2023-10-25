@@ -1,0 +1,6 @@
+C:\CS_Study\NCS_Start_202310\DoWhile\bin\Debug\DoWhile.exe
+C:\CS_Study\NCS_Start_202310\DoWhile\bin\Debug\DoWhile.pdb
+C:\CS_Study\NCS_Start_202310\DoWhile\obj\Debug\DoWhile.csproj.AssemblyReference.cache
+C:\CS_Study\NCS_Start_202310\DoWhile\obj\Debug\DoWhile.csproj.CoreCompileInputs.cache
+C:\CS_Study\NCS_Start_202310\DoWhile\obj\Debug\DoWhile.exe
+C:\CS_Study\NCS_Start_202310\DoWhile\obj\Debug\DoWhile.pdb

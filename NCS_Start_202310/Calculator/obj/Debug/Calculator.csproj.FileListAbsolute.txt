@@ -1,0 +1,6 @@
+C:\CS_Study\NCS_Start_202310\Calculator\bin\Debug\Calculator.exe
+C:\CS_Study\NCS_Start_202310\Calculator\bin\Debug\Calculator.pdb
+C:\CS_Study\NCS_Start_202310\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\CS_Study\NCS_Start_202310\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\CS_Study\NCS_Start_202310\Calculator\obj\Debug\Calculator.exe
+C:\CS_Study\NCS_Start_202310\Calculator\obj\Debug\Calculator.pdb

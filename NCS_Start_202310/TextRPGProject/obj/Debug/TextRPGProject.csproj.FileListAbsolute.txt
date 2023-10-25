@@ -4,3 +4,9 @@
 /Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/TextRPGProject/obj/Debug/TextRPGProject.csproj.CoreCompileInputs.cache
 /Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/TextRPGProject/obj/Debug/TextRPGProject.exe
 /Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/TextRPGProject/obj/Debug/TextRPGProject.pdb
+C:\CS_Study\NCS_Start_202310\TextRPGProject\bin\Debug\TextRPGProject.exe
+C:\CS_Study\NCS_Start_202310\TextRPGProject\bin\Debug\TextRPGProject.pdb
+C:\CS_Study\NCS_Start_202310\TextRPGProject\obj\Debug\TextRPGProject.csproj.AssemblyReference.cache
+C:\CS_Study\NCS_Start_202310\TextRPGProject\obj\Debug\TextRPGProject.csproj.CoreCompileInputs.cache
+C:\CS_Study\NCS_Start_202310\TextRPGProject\obj\Debug\TextRPGProject.exe
+C:\CS_Study\NCS_Start_202310\TextRPGProject\obj\Debug\TextRPGProject.pdb

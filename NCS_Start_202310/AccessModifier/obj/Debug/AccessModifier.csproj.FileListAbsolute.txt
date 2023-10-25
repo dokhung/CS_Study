@@ -1,0 +1,6 @@
+C:\CS_Study\NCS_Start_202310\AccessModifier\bin\Debug\AccessModifier.exe
+C:\CS_Study\NCS_Start_202310\AccessModifier\bin\Debug\AccessModifier.pdb
+C:\CS_Study\NCS_Start_202310\AccessModifier\obj\Debug\AccessModifier.csproj.AssemblyReference.cache
+C:\CS_Study\NCS_Start_202310\AccessModifier\obj\Debug\AccessModifier.csproj.CoreCompileInputs.cache
+C:\CS_Study\NCS_Start_202310\AccessModifier\obj\Debug\AccessModifier.exe
+C:\CS_Study\NCS_Start_202310\AccessModifier\obj\Debug\AccessModifier.pdb

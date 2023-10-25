@@ -1,0 +1,6 @@
+C:\CS_Study\NCS_Start_202310\inheritance\bin\Debug\inheritance.exe
+C:\CS_Study\NCS_Start_202310\inheritance\bin\Debug\inheritance.pdb
+C:\CS_Study\NCS_Start_202310\inheritance\obj\Debug\inheritance.csproj.AssemblyReference.cache
+C:\CS_Study\NCS_Start_202310\inheritance\obj\Debug\inheritance.csproj.CoreCompileInputs.cache
+C:\CS_Study\NCS_Start_202310\inheritance\obj\Debug\inheritance.exe
+C:\CS_Study\NCS_Start_202310\inheritance\obj\Debug\inheritance.pdb

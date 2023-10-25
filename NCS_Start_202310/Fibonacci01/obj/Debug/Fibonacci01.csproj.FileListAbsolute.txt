@@ -1,0 +1,6 @@
+C:\CS_Study\NCS_Start_202310\Fibonacci01\bin\Debug\Fibonacci01.exe
+C:\CS_Study\NCS_Start_202310\Fibonacci01\bin\Debug\Fibonacci01.pdb
+C:\CS_Study\NCS_Start_202310\Fibonacci01\obj\Debug\Fibonacci01.csproj.AssemblyReference.cache
+C:\CS_Study\NCS_Start_202310\Fibonacci01\obj\Debug\Fibonacci01.csproj.CoreCompileInputs.cache
+C:\CS_Study\NCS_Start_202310\Fibonacci01\obj\Debug\Fibonacci01.exe
+C:\CS_Study\NCS_Start_202310\Fibonacci01\obj\Debug\Fibonacci01.pdb

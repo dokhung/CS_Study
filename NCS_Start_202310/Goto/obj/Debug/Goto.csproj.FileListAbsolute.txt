@@ -1,0 +1,6 @@
+C:\CS_Study\NCS_Start_202310\Goto\bin\Debug\Goto.exe
+C:\CS_Study\NCS_Start_202310\Goto\bin\Debug\Goto.pdb
+C:\CS_Study\NCS_Start_202310\Goto\obj\Debug\Goto.csproj.AssemblyReference.cache
+C:\CS_Study\NCS_Start_202310\Goto\obj\Debug\Goto.csproj.CoreCompileInputs.cache
+C:\CS_Study\NCS_Start_202310\Goto\obj\Debug\Goto.exe
+C:\CS_Study\NCS_Start_202310\Goto\obj\Debug\Goto.pdb

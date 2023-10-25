@@ -1,0 +1,6 @@
+C:\CS_Study\NCS_Start_202310\LottoGame\bin\Debug\LottoGame.exe
+C:\CS_Study\NCS_Start_202310\LottoGame\bin\Debug\LottoGame.pdb
+C:\CS_Study\NCS_Start_202310\LottoGame\obj\Debug\LottoGame.csproj.AssemblyReference.cache
+C:\CS_Study\NCS_Start_202310\LottoGame\obj\Debug\LottoGame.csproj.CoreCompileInputs.cache
+C:\CS_Study\NCS_Start_202310\LottoGame\obj\Debug\LottoGame.exe
+C:\CS_Study\NCS_Start_202310\LottoGame\obj\Debug\LottoGame.pdb

@@ -1,0 +1,6 @@
+C:\CS_Study\NCS_Start_202310\Overriding\bin\Debug\Overriding.exe
+C:\CS_Study\NCS_Start_202310\Overriding\bin\Debug\Overriding.pdb
+C:\CS_Study\NCS_Start_202310\Overriding\obj\Debug\Overriding.csproj.AssemblyReference.cache
+C:\CS_Study\NCS_Start_202310\Overriding\obj\Debug\Overriding.csproj.CoreCompileInputs.cache
+C:\CS_Study\NCS_Start_202310\Overriding\obj\Debug\Overriding.exe
+C:\CS_Study\NCS_Start_202310\Overriding\obj\Debug\Overriding.pdb

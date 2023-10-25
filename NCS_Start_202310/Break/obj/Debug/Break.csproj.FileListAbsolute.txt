@@ -1,0 +1,6 @@
+C:\CS_Study\NCS_Start_202310\Break\bin\Debug\Break.exe
+C:\CS_Study\NCS_Start_202310\Break\bin\Debug\Break.pdb
+C:\CS_Study\NCS_Start_202310\Break\obj\Debug\Break.csproj.AssemblyReference.cache
+C:\CS_Study\NCS_Start_202310\Break\obj\Debug\Break.csproj.CoreCompileInputs.cache
+C:\CS_Study\NCS_Start_202310\Break\obj\Debug\Break.exe
+C:\CS_Study\NCS_Start_202310\Break\obj\Debug\Break.pdb

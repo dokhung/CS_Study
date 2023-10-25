@@ -1,0 +1,6 @@
+C:\CS_Study\NCS_Start_202310\NotMyLotto\bin\Debug\NotMyLotto.exe
+C:\CS_Study\NCS_Start_202310\NotMyLotto\bin\Debug\NotMyLotto.pdb
+C:\CS_Study\NCS_Start_202310\NotMyLotto\obj\Debug\NotMyLotto.csproj.AssemblyReference.cache
+C:\CS_Study\NCS_Start_202310\NotMyLotto\obj\Debug\NotMyLotto.csproj.CoreCompileInputs.cache
+C:\CS_Study\NCS_Start_202310\NotMyLotto\obj\Debug\NotMyLotto.exe
+C:\CS_Study\NCS_Start_202310\NotMyLotto\obj\Debug\NotMyLotto.pdb
