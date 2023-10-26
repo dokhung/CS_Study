@@ -1,0 +1,6 @@
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/CSTest1/bin/Debug/CSTest1.exe
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/CSTest1/bin/Debug/CSTest1.pdb
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/CSTest1/obj/Debug/CSTest1.csproj.AssemblyReference.cache
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/CSTest1/obj/Debug/CSTest1.csproj.CoreCompileInputs.cache
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/CSTest1/obj/Debug/CSTest1.exe
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/CSTest1/obj/Debug/CSTest1.pdb
