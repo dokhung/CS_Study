@@ -301,6 +301,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20231027_1", "20231027_1\20
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20231027_suuu", "20231027_suuu\20231027_suuu.csproj", "{11D42915-90A9-4F12-BDCD-143631899FB3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameCard", "NameCard\NameCard.csproj", "{274A7474-05BE-40D9-B71C-5C08BBF5C8EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -903,6 +905,10 @@ Global
 		{11D42915-90A9-4F12-BDCD-143631899FB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11D42915-90A9-4F12-BDCD-143631899FB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11D42915-90A9-4F12-BDCD-143631899FB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{274A7474-05BE-40D9-B71C-5C08BBF5C8EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274A7474-05BE-40D9-B71C-5C08BBF5C8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{274A7474-05BE-40D9-B71C-5C08BBF5C8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274A7474-05BE-40D9-B71C-5C08BBF5C8EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
