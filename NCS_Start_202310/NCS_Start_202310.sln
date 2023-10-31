@@ -325,6 +325,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NrinkTreeNodeArr", "NrinkTr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeNode_Stduy", "BinaryTreeNode_Stduy\BinaryTreeNode_Stduy.csproj", "{A054C106-5AF6-4AEB-800A-661B6693B3C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20231031_Mission1", "20231031_Mission1\20231031_Mission1.csproj", "{270D4107-3EED-4F45-ACF1-C68A73B34769}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -975,6 +977,10 @@ Global
 		{A054C106-5AF6-4AEB-800A-661B6693B3C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A054C106-5AF6-4AEB-800A-661B6693B3C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A054C106-5AF6-4AEB-800A-661B6693B3C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{270D4107-3EED-4F45-ACF1-C68A73B34769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{270D4107-3EED-4F45-ACF1-C68A73B34769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{270D4107-3EED-4F45-ACF1-C68A73B34769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{270D4107-3EED-4F45-ACF1-C68A73B34769}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
