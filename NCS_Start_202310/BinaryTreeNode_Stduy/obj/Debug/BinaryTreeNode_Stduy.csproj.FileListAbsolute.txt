@@ -1,0 +1,6 @@
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/BinaryTreeNode_Stduy/bin/Debug/BinaryTreeNode_Stduy.exe
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/BinaryTreeNode_Stduy/bin/Debug/BinaryTreeNode_Stduy.pdb
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/BinaryTreeNode_Stduy/obj/Debug/BinaryTreeNode_Stduy.csproj.AssemblyReference.cache
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/BinaryTreeNode_Stduy/obj/Debug/BinaryTreeNode_Stduy.csproj.CoreCompileInputs.cache
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/BinaryTreeNode_Stduy/obj/Debug/BinaryTreeNode_Stduy.exe
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/BinaryTreeNode_Stduy/obj/Debug/BinaryTreeNode_Stduy.pdb

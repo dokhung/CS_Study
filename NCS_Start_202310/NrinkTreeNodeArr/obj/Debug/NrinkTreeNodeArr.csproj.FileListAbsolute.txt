@@ -1,0 +1,6 @@
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/NrinkTreeNodeArr/bin/Debug/NrinkTreeNodeArr.exe
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/NrinkTreeNodeArr/bin/Debug/NrinkTreeNodeArr.pdb
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/NrinkTreeNodeArr/obj/Debug/NrinkTreeNodeArr.csproj.AssemblyReference.cache
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/NrinkTreeNodeArr/obj/Debug/NrinkTreeNodeArr.csproj.CoreCompileInputs.cache
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/NrinkTreeNodeArr/obj/Debug/NrinkTreeNodeArr.exe
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/NrinkTreeNodeArr/obj/Debug/NrinkTreeNodeArr.pdb

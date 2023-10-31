@@ -1,0 +1,6 @@
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/Tree_Study/bin/Debug/Tree_Study.exe
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/Tree_Study/bin/Debug/Tree_Study.pdb
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/Tree_Study/obj/Debug/Tree_Study.csproj.AssemblyReference.cache
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/Tree_Study/obj/Debug/Tree_Study.csproj.CoreCompileInputs.cache
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/Tree_Study/obj/Debug/Tree_Study.exe
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/Tree_Study/obj/Debug/Tree_Study.pdb
