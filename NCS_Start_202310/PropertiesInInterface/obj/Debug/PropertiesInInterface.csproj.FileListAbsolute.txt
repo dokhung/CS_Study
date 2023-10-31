@@ -1,0 +1,6 @@
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/PropertiesInInterface/bin/Debug/PropertiesInInterface.exe
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/PropertiesInInterface/bin/Debug/PropertiesInInterface.pdb
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/PropertiesInInterface/obj/Debug/PropertiesInInterface.csproj.AssemblyReference.cache
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/PropertiesInInterface/obj/Debug/PropertiesInInterface.csproj.CoreCompileInputs.cache
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/PropertiesInInterface/obj/Debug/PropertiesInInterface.exe
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/PropertiesInInterface/obj/Debug/PropertiesInInterface.pdb

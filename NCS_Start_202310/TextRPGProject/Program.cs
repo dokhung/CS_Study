@@ -96,7 +96,6 @@ namespace TextRPGProject
                     BetteJon();
                     break;
                 default:
-                    // 다른 키에 대한 처리를 추가할 수 있습니다.
                     break;
             }
             
@@ -151,7 +150,7 @@ namespace TextRPGProject
             Console.WriteLine("---------------");
             Console.Write("입력하세요 : ");
             char key = Console.ReadKey().KeyChar;
-            switch (key)
+            switch (key) 
             {
                 case '1':
                     Console.Clear();
