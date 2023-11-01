@@ -333,6 +333,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20231101_1", "20231101_1\20
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20231101", "20231101\20231101.csproj", "{D31D09E6-D5F0-4B3D-8F5D-0EECFC68325E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyingArray", "CopyingArray\CopyingArray.csproj", "{9543B464-0BA8-4FC9-BF8A-D99364E679DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -999,6 +1001,10 @@ Global
 		{D31D09E6-D5F0-4B3D-8F5D-0EECFC68325E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D31D09E6-D5F0-4B3D-8F5D-0EECFC68325E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D31D09E6-D5F0-4B3D-8F5D-0EECFC68325E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9543B464-0BA8-4FC9-BF8A-D99364E679DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9543B464-0BA8-4FC9-BF8A-D99364E679DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9543B464-0BA8-4FC9-BF8A-D99364E679DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9543B464-0BA8-4FC9-BF8A-D99364E679DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

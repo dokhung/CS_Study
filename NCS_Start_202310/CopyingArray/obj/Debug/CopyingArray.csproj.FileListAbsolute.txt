@@ -1,0 +1,6 @@
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/CopyingArray/bin/Debug/CopyingArray.exe
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/CopyingArray/bin/Debug/CopyingArray.pdb
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/CopyingArray/obj/Debug/CopyingArray.csproj.AssemblyReference.cache
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/CopyingArray/obj/Debug/CopyingArray.csproj.CoreCompileInputs.cache
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/CopyingArray/obj/Debug/CopyingArray.exe
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/CopyingArray/obj/Debug/CopyingArray.pdb
