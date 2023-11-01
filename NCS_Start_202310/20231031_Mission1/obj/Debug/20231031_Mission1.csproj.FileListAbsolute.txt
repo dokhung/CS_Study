@@ -1,0 +1,6 @@
+C:\CS_Study\NCS_Start_202310\20231031_Mission1\bin\Debug\_20231031_Mission1.exe
+C:\CS_Study\NCS_Start_202310\20231031_Mission1\bin\Debug\_20231031_Mission1.pdb
+C:\CS_Study\NCS_Start_202310\20231031_Mission1\obj\Debug\20231031_Mission1.csproj.AssemblyReference.cache
+C:\CS_Study\NCS_Start_202310\20231031_Mission1\obj\Debug\20231031_Mission1.csproj.CoreCompileInputs.cache
+C:\CS_Study\NCS_Start_202310\20231031_Mission1\obj\Debug\_20231031_Mission1.exe
+C:\CS_Study\NCS_Start_202310\20231031_Mission1\obj\Debug\_20231031_Mission1.pdb

@@ -18,17 +18,22 @@ namespace _20231031_Mission1
     }
     abstract class Shop
     {
+        protected int prise = 0;
         public abstract void Wear();
+
+        public virtual void setting()
+        {
+            prise = int.Parse(Console.ReadLine());
+        }
     }
 
     class Consultation : Shop
     {
-        public Consultation()
+        public override void setting()
         {
             Console.Write("상의 가격 설정  :");
-            int prise = int.Parse(Console.ReadLine());
+            base.setting();
             Console.WriteLine($"{prise}원으로 설정 완료");
-
         }
         public override void Wear()
         {
@@ -40,10 +45,10 @@ namespace _20231031_Mission1
 
     class Bottom : Shop
     {
-        public Bottom()
+        public void setting()
         {
             Console.Write("하의 가격 설정 :");
-            int prise = int.Parse(Console.ReadLine());
+            base.setting();
             Console.WriteLine($"{prise}원으로 설정 완료");
         }
         public override void Wear()
@@ -55,10 +60,10 @@ namespace _20231031_Mission1
 
     class Hat : Shop
     {
-        public Hat()
+        public void setting()
         {
             Console.Write("모자 가격 설정 :");
-            int prise = int.Parse(Console.ReadLine());
+            base.setting();
             Console.WriteLine($"{prise}원으로 설정 완료");
         }
         public override void Wear()
@@ -78,22 +83,55 @@ namespace _20231031_Mission1
     {
         public static void Main(string[] args)
         {
+            Console.WriteLine("가게를 오픈 합니다.");
             Hat hat = new Hat();
             Bottom bottom = new Bottom();
             Accessories accessories = new Accessories();
             Consultation consultation = new Consultation();
-            
-            Console.WriteLine("옷가게");
-            Console.WriteLine("가게주인인지 손님인지 판단함 맞으면 y 아니면 n");
-            string ok = Console.ReadLine();
-            switch (ok)
+            while (true)
             {
-                case "y" :
-                    Console.WriteLine("옷가게 주인 확인");
-                    break;
-                case "n" :
-                    Console.WriteLine("손님 확인");
-                    break;
+                Console.WriteLine("옷가게");
+                Console.WriteLine("가게주인인지 손님인지 판단함 맞으면 y 아니면 n");
+                string ok = Console.ReadLine();
+                switch (ok)
+                {
+                    case "y" :
+                        Console.WriteLine("옷가게 주인 확인");
+                        Console.WriteLine("물품 가격 셋팅");
+                        hat.setting();
+                        bottom.setting();
+                        consultation.setting();
+                        break;
+                    case "n" :
+                        Console.WriteLine("손님 확인");
+                        Console.WriteLine("원하는 착용은?");
+                        Console.WriteLine("1. 모자");
+                        Console.WriteLine("2. 상의");
+                        Console.WriteLine("3. 하의");
+                        Console.WriteLine("4. 악세사리");
+                        int selnum = int.Parse(Console.ReadLine());
+                        if (selnum == 1)
+                        {
+                            hat.Wear();
+                        }
+                        else if (selnum == 2)
+                        {
+                            consultation.Wear();
+                        }
+                        else if (selnum == 3)
+                        {
+                            bottom.Wear();
+                        }
+                        else if (selnum == 4)
+                        {
+                            accessories.UseAccessories();
+                        }
+                        else
+                        {
+                            Console.WriteLine("틀린 입력");
+                        }
+                        break;
+                }
             }
         }
     }
