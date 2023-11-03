@@ -341,6 +341,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20231103_1", "20231103_1\20
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "floatrandom", "floatrandom\floatrandom.csproj", "{4D32C9C1-6807-4BE7-A196-AB5567FF7F81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokemon", "Pokemon\Pokemon.csproj", "{881D10E9-64CD-4CBA-9E00-E9795BF8B121}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20231103", "20231103\20231103.csproj", "{00658DEA-1887-4D6A-8BFC-46FDE4B168C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1023,6 +1027,14 @@ Global
 		{4D32C9C1-6807-4BE7-A196-AB5567FF7F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D32C9C1-6807-4BE7-A196-AB5567FF7F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D32C9C1-6807-4BE7-A196-AB5567FF7F81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{881D10E9-64CD-4CBA-9E00-E9795BF8B121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{881D10E9-64CD-4CBA-9E00-E9795BF8B121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{881D10E9-64CD-4CBA-9E00-E9795BF8B121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{881D10E9-64CD-4CBA-9E00-E9795BF8B121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00658DEA-1887-4D6A-8BFC-46FDE4B168C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00658DEA-1887-4D6A-8BFC-46FDE4B168C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00658DEA-1887-4D6A-8BFC-46FDE4B168C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00658DEA-1887-4D6A-8BFC-46FDE4B168C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
