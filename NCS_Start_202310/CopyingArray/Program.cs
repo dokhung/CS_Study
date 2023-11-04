@@ -8,7 +8,7 @@ namespace CopyingArray
         {
             for (int i = 0; i < source.Length; i++)
             {
-                target[i] = source[i];
+                target[i] = source[i]; 
             }
         }
         public static void Main(string[] args)

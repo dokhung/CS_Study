@@ -508,7 +508,7 @@ namespace _20231102_Mission1
                  {
                      while (true)
                      {
-                         Console.WriteLine("떄릴꼬얌?");
+                         Console.WriteLine("당신의 공격차례입니다. 공격하겠습니까??");
                          Console.Write("선택하라 : Y/N ");
                          string ok = Console.ReadLine();
                          int enamihp = enamyFirePokemon.hp;

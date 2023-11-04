@@ -1,0 +1,6 @@
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/20231102_Mission1_re/bin/Debug/_20231102_Mission1_re.exe
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/20231102_Mission1_re/bin/Debug/_20231102_Mission1_re.pdb
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/20231102_Mission1_re/obj/Debug/20231102_Mission1_re.csproj.AssemblyReference.cache
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/20231102_Mission1_re/obj/Debug/20231102_Mission1_re.csproj.CoreCompileInputs.cache
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/20231102_Mission1_re/obj/Debug/_20231102_Mission1_re.exe
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/20231102_Mission1_re/obj/Debug/_20231102_Mission1_re.pdb
