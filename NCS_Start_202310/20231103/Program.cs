@@ -133,7 +133,7 @@ namespace NCS_Start_202310
                 Me.AddCar(car);
             }
             //카드의 경우
-            Console.WriteLine( Me.GetMoney(Pay.Card));
+            Console.WriteLine(Me.GetMoney(Pay.Card));
 
             Console.WriteLine(Me.GetMoney(Pay.Cash));
 
