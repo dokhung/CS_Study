@@ -1,0 +1,6 @@
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/ramdafun/bin/Debug/ramdafun.exe
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/ramdafun/bin/Debug/ramdafun.pdb
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/ramdafun/obj/Debug/ramdafun.csproj.AssemblyReference.cache
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/ramdafun/obj/Debug/ramdafun.csproj.CoreCompileInputs.cache
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/ramdafun/obj/Debug/ramdafun.exe
+/Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/ramdafun/obj/Debug/ramdafun.pdb
