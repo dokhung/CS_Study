@@ -4,3 +4,9 @@
 /Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/20231103_1_re2/obj/Debug/20231103_1_re2.csproj.CoreCompileInputs.cache
 /Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/20231103_1_re2/obj/Debug/_20231103_1_re2.exe
 /Users/kuredogyon/Documents/CS_Study/NCS_Start_202310/20231103_1_re2/obj/Debug/_20231103_1_re2.pdb
+C:\CS_Study\NCS_Start_202310\20231103_1_re2\bin\Debug\_20231103_1_re2.exe
+C:\CS_Study\NCS_Start_202310\20231103_1_re2\bin\Debug\_20231103_1_re2.pdb
+C:\CS_Study\NCS_Start_202310\20231103_1_re2\obj\Debug\20231103_1_re2.csproj.AssemblyReference.cache
+C:\CS_Study\NCS_Start_202310\20231103_1_re2\obj\Debug\20231103_1_re2.csproj.CoreCompileInputs.cache
+C:\CS_Study\NCS_Start_202310\20231103_1_re2\obj\Debug\_20231103_1_re2.exe
+C:\CS_Study\NCS_Start_202310\20231103_1_re2\obj\Debug\_20231103_1_re2.pdb
